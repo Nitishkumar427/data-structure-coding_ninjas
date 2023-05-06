@@ -1,1 +1,1 @@
-# data-structure-coding_ninjas
+# Data-Structure
